@@ -20,4 +20,5 @@ Not Started
 
 <!-- Keep this updated. Earliest to latest -->
 
+- Initial setup of Next.js 16.3.6 with Tailwind CSS v4
 - Project setup and boilerplate cleanup
